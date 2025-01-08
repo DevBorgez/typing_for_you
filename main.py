@@ -44,5 +44,5 @@ def on_hotkey():
 keyboard.add_hotkey('ctrl+alt+´', on_hotkey)
 
 # Keep the program running
-print("Press Ctrl + Alt + T to activate the hotkey...")
+print("Press Ctrl + Alt + ´ to activate the hotkey...")
 keyboard.wait('esc')  # Exits when ESC is pressed
