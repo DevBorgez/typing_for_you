@@ -18,7 +18,7 @@ Run the script:
 
 ## Customization
 - Modify the `text_to_type` variable to change the text to be typed.
-- Adjust the hotkey by changing the string in `keyboard.add_hotkey()`.
+- Press Ctrl + Alt + ´ to activate the automation
 
 ## Limitations
 - Requires admin permissions to listen for global hotkeys on some systems.
