@@ -1,6 +1,6 @@
 # typing_for_you
 
-# A simple fast typing automation script:
+# A fast typing automation script:
 
 This script automates the typing of a predefined text when a specific keyboard shortcut is pressed.
 
