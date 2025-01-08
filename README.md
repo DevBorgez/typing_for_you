@@ -10,7 +10,7 @@ This script automates the typing of a predefined text when a specific keyboard s
 - Allows for a customizable hotkey.
 
 ## How to Use
-1. Install the keyboard library:
+1. Clone the repository and install the keyboard library:
    	pip install keyboard
    
 Run the script:
