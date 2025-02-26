@@ -3,12 +3,12 @@ import pyperclip
 import time
 import random
 
+# Define the text you want to type
+text_to_type = """YOUR TEXT HERE"""
+
 def on_hotkey():
     # Interval
     time.sleep(1)
-
-    # Define the text you want to type
-    text_to_type = """YOUR TEXT HERE"""
 
     # Main function to type text
     def fast_typing(text, delay_ascii=0.005):
